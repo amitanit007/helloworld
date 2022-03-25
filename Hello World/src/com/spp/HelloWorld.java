@@ -3,7 +3,9 @@ package com.spp;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World");
+		int x=5,y=0,z;
+		z=x/y;
+		System.out.println(z);
 
 	}
 
